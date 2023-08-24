@@ -1,0 +1,23 @@
+.email{
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+}
+.FirstName{
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+}
+.email
+{
+    margin: auto;
+    margin-bottom:10px; 
+}
+.DOB{
+    margin: auto;
+    padding: 5px;  
+       
+}
+.Gender{
+    padding: 5px;    
+    }
